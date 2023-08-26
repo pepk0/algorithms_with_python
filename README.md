@@ -19,6 +19,7 @@ Sorting algorithms:
   3. merge sort
   4. quick sort
   5. selection sort
+
 Graph algorithms:
   1. BFS
   2. DFS
