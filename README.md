@@ -1,6 +1,6 @@
 # Algorithms with Python
 > Course Date: June 2023  
-> [certificate](https://softuni.bg/certificates/details/181215/e51ab860)
+> [certificate](https://softuni.bg/certificates/details/181215/e51ab860){:target="_blank"} 
 
 ### Course curriculum:
 ---
