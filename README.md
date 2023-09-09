@@ -1,29 +1,38 @@
-# algorithms_with_python
-Algorithms with Python course 
+# Algorithms with Python
+> Course Date: June 2023  
+> [certificate](https://softuni.bg/certificates/details/181215/e51ab860)
 
-#COURSE CURRICULUM:
-Recursion - Total hours: 3
-Searching and Sorting Algorithms - Total hours: 3 
-Introduction to Graphs - Total hours: 3
-Minimum spanning tree and Shortest path in Graph - Total hours: 3
-Dynamic Programming - Total hours: 3
+### Course curriculum:
+---
+| **Subject** | **Hours** |
+| --- | --- |
+| Recursion | 3 |
+| Searching and Sorting Algorithms | 3 |
+| Introduction to Graphs | 3 |
+| Minimum spanning tree and Shortest path in Graph | 3 |
+| Dynamic Programming | 3 |
 
-Some of the algorithms here:
+### Contents:
+---
+In this repository, are also most of the problem sets solved as homework for 
+this course, using some of these algorithms:
 
-Searching algorithms:
-  1. binary search
+**Searching algorithms:**  
+- Binary Search  
 
-Sorting algorithms:
-  1. bubble sort
-  2. insertion sort
-  3. merge sort
-  4. quick sort
-  5. selection sort
+**Sorting algorithms:**
+- Bubble sort
+- Insertion sort
+- Merge sort
+- Quick sort
+- Selection sort
 
-Graph algorithms:
-  1. BFS
-  2. DFS
-  3. Bellman-Ford
-  4. Dijkstra
-  5. Kruskal
-  6. Prim
+**Graph algorithms:**
+- BFS
+- DFS
+- Bellman-Ford
+- Dijkstra
+- Kruskal
+- Prim
+---
+
