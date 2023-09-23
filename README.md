@@ -18,7 +18,7 @@
 In this repository, are also most of the problem sets solved as homework for 
 this course, using some of these algorithms:
 
-| **Searching Algorithm** | **Sorting algorithms** | **Graph algorythms** |
+| **Searching algorithm** | **Sorting algorithms** | **Graph algorithms** |
 | --- | --- | --- |
 |  Binary Search | Bubble sort | BFS|
 |   | Insertion sort| BFS|
