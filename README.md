@@ -1,38 +1,31 @@
 # Algorithms with Python
-> Course Date: June 2023  
+> **Course Date:** June 2023  
+> **Finished**   
 > <a href="https://softuni.bg/certificates/details/181215/e51ab860" target="_blank">certificate</a> 
 
 ### Course curriculum:
 ---
 | **Subject** | **Hours** |
 | --- | --- |
-| Recursion | 3 |
-| Searching and Sorting Algorithms | 3 |
-| Introduction to Graphs | 3 |
-| Minimum spanning tree and Shortest path in Graph | 3 |
-| Dynamic Programming | 3 |
+| [Recursion](https://github.com/pepk0/algorithms_with_python/tree/main/algorithms_with_python/recursion) | 3 |
+| [Searching and Sorting Algorithms](https://github.com/pepk0/algorithms_with_python/tree/main/algorithms_with_python/searching_and_sorting) | 3 |
+| [Introduction to Graphs](https://github.com/pepk0/algorithms_with_python/tree/main/algorithms_with_python/graphs) | 3 |
+| [Minimum spanning tree and Shortest path in Graph](https://github.com/pepk0/algorithms_with_python/tree/main/algorithms_with_python/graphs) | 3 |
+| [Dynamic Programming](https://github.com/pepk0/algorithms_with_python/tree/main/algorithms_with_python/dynamic_programing) | 3 |
 
 ### Contents:
 ---
 In this repository, are also most of the problem sets solved as homework for 
 this course, using some of these algorithms:
 
-**Searching algorithms:**  
-- Binary Search  
+| **Searching Algorithm** | **Sorting algorithms** | **Graph algorythms** |
+| --- | --- | --- |
+|  Binary Search | Bubble sort | BFS|
+|   | Insertion sort| BFS|
+|   | Merge sort| Prim |
+|   | Quick sort | Bellman-Ford|
+|   | Selection sort | Dijkstra|
+|   |  | Kruskal|
 
-**Sorting algorithms:**
-- Bubble sort
-- Insertion sort
-- Merge sort
-- Quick sort
-- Selection sort
 
-**Graph algorithms:**
-- BFS
-- DFS
-- Bellman-Ford
-- Dijkstra
-- Kruskal
-- Prim
----
 
